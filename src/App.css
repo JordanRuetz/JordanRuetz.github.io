@@ -1,0 +1,31 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+#root {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    background-color: #313e57;
+}
+
+h1 {
+    margin: 0;
+    padding: 10px;
+}
+
+#lines {
+    display: inline-block;
+    margin: auto;
+    color: #fff;
+    text-shadow: 0 0 5px #fff, 0 0 15px #7ef5f7, 0 0 25px #7ef5f7, 0 0 35px #7ef5f7;
+}
+
+.underline {
+    text-decoration: underline;
+    color: #442a31;
+    font-weight: bold;
+}
