@@ -30,3 +30,9 @@ h1 {
     color: #442a31;
     font-weight: bold;
 }
+
+@media only screen and (max-width: 800px) {
+    #lines {
+        font-size: 0.5em;
+    }
+}
