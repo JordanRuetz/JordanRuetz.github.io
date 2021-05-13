@@ -15,7 +15,7 @@ function App() {
         <h1>I like to code things.</h1>
         <h1>Sometimes I go to hackathons. (8x)</h1>
         <h1>Here is my <a href="./jordan-ruetz-resume.pdf"><span class="underline">resume</span></a>.</h1>
-        <h1>I am currently looking for fulltime jobs!</h1>
+        <h1>I am currently looking for a fulltime job!</h1>
       </div>
     </div>
   );
